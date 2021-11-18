@@ -16,6 +16,7 @@ int main (){
 			n = n / i;
 			counter += 1;
 			printf("%d ", i);
+			i = 1;
 		}
 	}
 	printf("%d ", n);
