@@ -1,0 +1,18 @@
+  Cognome: Alighieri
+     Nome: Dante
+Telefono: 333
+  Cognome: Gagliardi
+     Nome: Giovanni
+Telefono: 337
+  Cognome: Plutone
+     Nome: Pippo
+Telefono: 324
+  Cognome: Rossi
+     Nome: Mario
+Telefono: 123
+  Cognome: Verdi
+     Nome: Ugo
+Telefono: 322
+  Cognome: Ziliani
+     Nome: Beatrice
+Telefono: 456
